@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddharth-thakur10
-- 👀 I’m interested in ...Python coding
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...coding
+- 🌱 I’m currently learning ...C++ and DSA
 - 💞️ I’m looking to collaborate on ...nothing right now
 - 📫 How to reach me ...insta @sid_thakur_10
 
