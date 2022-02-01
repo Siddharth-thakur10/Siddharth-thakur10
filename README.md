@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...C++ and DSA
 - 💞️ I’m looking to collaborate on ...nothing right now
-- 📫 How to reach me ...insta @sid_thakur_10
+- 📫 How to reach me ...email - sidthakur854@gmail.com
 
 <!---
 Siddharth-thakur10/Siddharth-thakur10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
