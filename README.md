@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Thakur</h1>
-<h3 align="center">A passionate UI/UX Designer</h3>
+<h3 align="center">A passionate Developer and UI/UX Designer</h3>
 
-- 🌱 I’m currently learning **figma,canva,photoshop**
+- 🌱 I’m currently learning **React,Angular,Springboot,figma,canva,photoshop**
 
 - 👨‍💻 All of my projects are available at [https://www.figma.com/file/23TR7LxOVjcLSP5mvksXVi/Portfolio?node-id=0%3A1](https://www.figma.com/file/23TR7LxOVjcLSP5mvksXVi/Portfolio?node-id=0%3A1)
 
