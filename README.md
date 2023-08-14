@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Html,Css,JavaScript,React,figma,canva**
 
-- 👨‍💻 Some of my Figma projects are available at [https://www.figma.com/file/23TR7LxOVjcLSP5mvksXVi/Portfolio?node-id=0%3A1](https://www.figma.com/file/23TR7LxOVjcLSP5mvksXVi/Portfolio?node-id=0%3A1)
+- 👨‍💻 Portfolio Project on Figma [https://www.figma.com/file/23TR7LxOVjcLSP5mvksXVi/Portfolio?node-id=0%3A1](https://www.figma.com/file/23TR7LxOVjcLSP5mvksXVi/Portfolio?node-id=0%3A1)
 
 - 📫 How to reach me **sidthakur854@gmail.com**
 
