@@ -6,6 +6,8 @@
 - 👨‍💻 Portfolio Project 
 
 - 📫 How to reach me **sidthakur854@gmail.com**
+-Portfolio **<a href="https://twitter.com/sid_theboss10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sid_theboss10" height="30" width="40" /></a>**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
