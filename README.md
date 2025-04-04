@@ -6,7 +6,8 @@
 - 👨‍💻 Portfolio Project 
 
 - 📫 How to reach me **sidthakur854@gmail.com**
--Portfolio **<a href="https://twitter.com/sid_theboss10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sid_theboss10" height="30" width="40" /></a>**
+ 
+- Portfolio   **<a href="https://portfolio-mb7t-siddharth-thakur10s-projects.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="My Portfolio" height="30" width="30" /></a>**
 
 
 <h3 align="left">Connect with me:</h3>
